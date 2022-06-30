@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Week13_Painter.jnlp">
+  <information>
+    <title>Week13_Painter</title>
+    <vendor>hdamo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Week13_Painter.jar" size="10513" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="week13_painter.Week13_Painter"  name="Week13_Painter" />
+  <update check="always"/>
+</jnlp>
